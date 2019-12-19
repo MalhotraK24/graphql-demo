@@ -30,7 +30,7 @@ const initApollo = () => {
     //link: new SchemaLink({server}),
     cache: new InMemoryCache(),
   });
-  console.dir(HttpLink);
+  //console.dir(HttpLink);
   return client;
 };
 
