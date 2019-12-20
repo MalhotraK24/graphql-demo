@@ -1,6 +1,8 @@
+const ContentfulAPI = require('./datasources/contentful.js');
+
 const resolvers = {
   Query: {
-    questions: async (_, __, { dataSources }) =>  await dataSources.contentfulAPI.getAllQuestions()
+    questions: async (root, args, context, info) =>  await new ContentfulAPI().getAllQuestions()
   }
 }
 
