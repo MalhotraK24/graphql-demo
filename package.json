@@ -9,20 +9,20 @@
     "debug": "gulp nunjucks"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/contentful/boilerplate-javascript.git"
+    "type": "bitbucket",
+    "url": "bitbucket+https://bitbucket.org/aviosgroup/iagloyalty-graphql-demo/src/master/"
   },
   "engines": {
     "node": ">=4.7.2"
   },
   "keywords": [
+    "Getting-Started",
     "Contentful",
-    "GraphQL",
-    "Getting-Started"
+    "GraphQL"
   ],
   "author": "Kartik Malhotra",
   "license": "NOLICENSE",
-  "homepage": "https://github.com/contentful/boilerplate-javascript#readme",
+  "homepage": "https://bitbucket.org/aviosgroup/iagloyalty-graphql-demo/src/master/",
   "dependencies": {},
   "devDependencies": {
     "apollo": "^2.21.1",
