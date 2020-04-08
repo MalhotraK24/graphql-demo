@@ -1,5 +1,5 @@
 {
-  "name": "iagloyalty-graphql-demo",
+  "name": "graphql-demo",
   "version": "1.0.0",
   "description": "Demo to showcase GraphQL wrapper calling Contentful APIs",
   "private": true,
@@ -9,8 +9,8 @@
     "debug": "gulp nunjucks"
   },
   "repository": {
-    "type": "bitbucket",
-    "url": "bitbucket+https://bitbucket.org/aviosgroup/iagloyalty-graphql-demo/src/master/"
+    "type": "git",
+    "url": "git+https://github.com/MalhotraK24/graphql-demo.git"
   },
   "engines": {
     "node": ">=4.7.2"
@@ -22,7 +22,7 @@
   ],
   "author": "Kartik Malhotra",
   "license": "NOLICENSE",
-  "homepage": "https://bitbucket.org/aviosgroup/iagloyalty-graphql-demo/src/master/",
+  "homepage": "https://github.com/MalhotraK24/graphql-demo#readme",
   "dependencies": {},
   "devDependencies": {
     "apollo": "^2.21.1",
