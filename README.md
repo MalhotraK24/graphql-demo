@@ -1,6 +1,6 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5b0c182e-70df-4534-84e1-f092dbbef18f/deploy-status)](https://app.netlify.com/sites/iagloyalty-graphql-demo/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2e83d227-d9c8-4922-a7e4-ed17e1865ff1/deploy-status)](https://app.netlify.com/sites/km-graphql-demo/deploys)
 
-# IAG GraphQL Demo
+# GraphQL Demo
 
 This is the code base for GraphQL Wrapper connecting to Contentful Delivery APIs  to render the static 'Contact Us' or 'Help' page on avios.com
 ---
