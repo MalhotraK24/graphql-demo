@@ -1,23 +1,14 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6dcae942-5717-42b3-a35b-0f8d1acdb7fa/deploy-status)](https://app.netlify.com/sites/vibrant-edison-db8d64/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5b0c182e-70df-4534-84e1-f092dbbef18f/deploy-status)](https://app.netlify.com/sites/iagloyalty-graphql-demo/deploys)
 
-# Contentful JavaScript boilerplate project
+# IAG GraphQL Demo
 
-Boilerplate project for getting started using JavaScript with Contentful
+This is the code base for GraphQL Wrapper connecting to Contentful Delivery APIs  to render the static 'Contact Us' or 'Help' page on avios.com
+---
+🛠 **Installation & Initial Setup**
+---
+1. Open Terminal / Command Prompt and cd to where you'd like to clone the directory to locally. 
+2. Clone the directory.
+3. Install project dependencies: `npm install`
+4. Initial build the project locally which will generate the static file `index.html` in the `dist/` directory: `npm start`
 
-## Prerequisites
 
--   **Node** v4.7.2 or greater
-
-## Start the project
-
-### :one: Clone the project using the following command:
-
-```bash
-git clone https://malhotrak@bitbucket.org/aviosgroup/avios-contentful-demo.git/
-```
-### :two: Install dependencies and start it:
-
-```shell
-npm install && npm start
-
-```
